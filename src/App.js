@@ -13,7 +13,7 @@ function App() {
   compBackground="white"
   ctaLinks= {[]}
   description=""
-  textboxBackground ={true}/>
+  textboxBackground ="white"/>
     </Suspense>
   );
 }
