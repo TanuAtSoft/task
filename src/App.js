@@ -9,11 +9,11 @@ function App() {
     <Quoteblock title="storybook"
   subTitle ="can be run locally using npm run storybook"
   variant = ""
-  hideUnderline="true"
+  hideUnderline= {true}
   compBackground="white"
   ctaLinks= {[]}
   description=""
-  textboxBackground/>
+  textboxBackground ={true}/>
     </Suspense>
   );
 }
